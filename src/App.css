@@ -32,7 +32,30 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.container {
+  background-color: aquamarine;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.person {
+  background-color: darkkhaki;
+  border: 3px solid rebeccapurple;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px;
+}
+
+.habib {
+  background-color: rgb(190, 189, 170);
+  border: 3px solid rebeccapurple;
+  padding: 20px;
+  margin: 10px;
+  border-radius: 20px;
 }
